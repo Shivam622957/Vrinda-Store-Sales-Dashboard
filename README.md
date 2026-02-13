@@ -38,6 +38,10 @@ The final output is an interactive Excel dashboard built using Pivot Tables, Piv
 - Age & Gender Analysis
 - Channel Performance Analysis
 - Interactive Slicers (Month, Category, Channel)
+  ## 📊 Dashboard Preview
+
+![Vrinda Store Dashboard](Screenshot 2025-12-13 121651.png)
+
 
 ---
 
